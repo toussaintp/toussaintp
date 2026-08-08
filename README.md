@@ -12,6 +12,14 @@
 - <b>Help Desk</b>
   - [Help Desk Ticket Management With osTicket](https://github.com/toussaintp/osTicket-prereqs-install-config-lifecycle)
   - [Windows Remote Support and Troubleshooting](https://github.com/toussaintp/windows-remote-support)
+- <b>Windows Administration</b>
+  - [Windows System Monitoring and Performance Analysis](https://github.com/toussaintp/Windows-Monitoring-Analysis)
+  - [Windows User and Access Management](https://github.com/toussaintp/Windows-Management)
+  - [Windows Remote Desktop and Remote Assistance](https://github.com/toussaintp/Windows-Remote)
+  - [Windows Boot Recovery and Startup Repair](https://github.com/toussaintp/Windows-Recovery-Repair)
+  - [Windows Backup and Recovery](https://github.com/toussaintp/Windows-Backup)
+  - [Windows Endpoint Security Hardening](https://github.com/toussaintp/Windows-Hardening)
+  - [Windows File Sharing and Permissions](https://github.com/toussaintp/Windows-File-Sharing)
 
 
 <h2>🤳Connect with me:</h2>
