@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/toussaintp/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/toussaintp/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/toussaintp/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/toussaintp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/toussaintp/azure-network-protocols)
@@ -20,9 +16,15 @@
   - [Windows Backup and Recovery](https://github.com/toussaintp/Windows-Backup)
   - [Windows Endpoint Security Hardening](https://github.com/toussaintp/Windows-Hardening)
   - [Windows File Sharing and Permissions](https://github.com/toussaintp/Windows-File-Sharing)
+- <b>Networking</b>
+  - [TCP/IP Network Diagnostics](https://github.com/toussaintp/TCP-IP-Network-Diagnostics)
+  - [Windows Network Connectivity Troubleshooting](https://github.com/toussaintp/Windows-Network-Connectivity)
+  - [DNS and DHCP Troubleshooting](https://github.com/toussaintp/DNS-DHCP)
+  - [Network Traffic Analysis with Wireshark](https://github.com/toussaintp/Network-Analysis-Wireshark)
+  - [Cisco Packet Tracer Network Projects](https://github.com/toussaintp/Cisco-Packet-tracer)
 - <b>Cloud Computing</b>
-  - [Azure Virtual Machines](https://github.com/toussaintp/Azure-Virtual-Machines)
-  - [Azure Active Directory](https://github.com/toussaintp/Azure-Active-Directory)
+  - [Microsoft Azure Virtual Machines and Networking](https://github.com/toussaintp/Azure-Virtual-Machines)
+  - [Active Directory Domain Services Administration](https://github.com/toussaintp/Azure-Active-Directory)
   - [Azure Network Security Groups](https://github.com/toussaintp/Azure-Network-Security-Groups)
 - <b>Linux</b>
   - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
