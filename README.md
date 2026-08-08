@@ -9,6 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/toussaintp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/toussaintp/azure-network-protocols)
+- <b>Help Desk</b>
+  - [Help Desk Ticket Management With osTicket](https://github.com/toussaintp/osTicket-prereqs-install-config-lifecycle)
+  - [Windows Remote Support and Troubleshooting](https://github.com/toussaintp/windows-remote-support)
+
 
 <h2>🤳Connect with me:</h2>
 
