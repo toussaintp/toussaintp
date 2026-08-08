@@ -20,7 +20,10 @@
   - [Windows Backup and Recovery](https://github.com/toussaintp/Windows-Backup)
   - [Windows Endpoint Security Hardening](https://github.com/toussaintp/Windows-Hardening)
   - [Windows File Sharing and Permissions](https://github.com/toussaintp/Windows-File-Sharing)
-
+- <b>Cloud Computing</b>
+  - [Azure Virtual Machines](https://github.com/toussaintp/Azure-Virtual-Machines)
+  - [Azure Active Directory](https://github.com/toussaintp/Azure-Active-Directory)
+  - [Azure Network Security Groups](https://github.com/toussaintp/Azure-Network-Security-Groups)
 
 <h2>🤳Connect with me:</h2>
 
