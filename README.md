@@ -30,6 +30,10 @@
 - <b>Mobile Device Support</b>
   - [Android Troubleshooting](https://github.com/toussaintp/Android-Troubleshooting)
   - [Mobile Device Security](https://github.com/toussaintp/Mobile-Device-Security)
+- <b>Cloud Computing</b>
+  - [Computer Hardware Diagnostics](https://github.com/toussaintp/Computer-Hardware-Diagnostic)
+  - [Computer Hardware Upgrades](https://github.com/toussaintp/Computer-Hardware-Upgrades)
+  - [Peripheral Installation and Troubleshooting](https://github.com/toussaintp/Peripheral-Installation-and-Troubleshooting)
 
 
 <h2>🤳Connect with me:</h2>
