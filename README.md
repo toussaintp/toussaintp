@@ -27,6 +27,10 @@
 - <b>Linux</b>
   - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
   - [Linux Virtualization](https://github.com/toussaintp/Linux-Virtualization)
+- <b>Mobile Device Support</b>
+  - [Android Troubleshooting](https://github.com/toussaintp/Android-Troubleshooting)
+  - [Mobile Device Security](https://github.com/toussaintp/Mobile-Device-Security)
+
 
 <h2>🤳Connect with me:</h2>
 
