@@ -24,6 +24,9 @@
   - [Azure Virtual Machines](https://github.com/toussaintp/Azure-Virtual-Machines)
   - [Azure Active Directory](https://github.com/toussaintp/Azure-Active-Directory)
   - [Azure Network Security Groups](https://github.com/toussaintp/Azure-Network-Security-Groups)
+- <b>Linux</b>
+  - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
+  - [Linux Virtualization](https://github.com/toussaintp/Linux-Virtualization)
 
 <h2>🤳Connect with me:</h2>
 
