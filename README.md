@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Help Desk</b>
+- <b>Help Desk and Technical Support</b>
   - [Help Desk Ticket Management With osTicket](https://github.com/toussaintp/osTicket-prereqs-install-config-lifecycle)
   - [Windows Remote Support and Troubleshooting](https://github.com/toussaintp/windows-remote-support)
 - <b>Windows Administration</b>
