@@ -12,9 +12,7 @@
 - <b>Networking</b>
   - [Network Security Groups and Traffic Analysis with Wireshark](https://github.com/toussaintp/Network-Security-Groups-and-Traffic-Analysis-with-Wireshark)
 - <b>Cloud Computing</b>
-  - [Microsoft Azure Virtual Machines and Networking](https://github.com/toussaintp/Azure-Virtual-Machines)
-  - [Active Directory Domain Services Administration](https://github.com/toussaintp/Azure-Active-Directory)
-  - [Azure Network Security Groups](https://github.com/toussaintp/Azure-Network-Security-Groups)
+  - [Active Directory Administration in Azure](https://github.com/toussaintp/Active-Directory-Administration-in-Azure)
 - <b>Linux</b>
   - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
   - [Linux Networking and Troubleshooting](https://github.com/toussaintp/Linux-Networking-and-Troubleshooting)
