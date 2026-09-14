@@ -6,7 +6,7 @@
   - [Help Desk Ticket Management With osTicket](https://github.com/toussaintp/osTicket-prereqs-install-config-lifecycle)
   - [Windows Remote Support and Troubleshooting](https://github.com/toussaintp/windows-remote-support)
 - <b>Windows Administration</b>
-  - [Windows System Monitoring and Performance Analysis](https://github.com/toussaintp/Windows-Monitoring-Analysis)
+  - [Windows Endpoint Administration and Troubleshooting](https://github.com/toussaintp/Windows-Endpoint-Administration-and-Troubleshooting)
   - [Windows User and Access Management](https://github.com/toussaintp/Windows-Management)
   - [Windows Remote Desktop and Remote Assistance](https://github.com/toussaintp/Windows-Remote)
   - [Windows Boot Recovery and Startup Repair](https://github.com/toussaintp/Windows-Recovery-Repair)
