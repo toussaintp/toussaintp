@@ -16,9 +16,6 @@
 - <b>Linux</b>
   - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
   - [Linux Networking and Troubleshooting](https://github.com/toussaintp/Linux-Networking-and-Troubleshooting)
-- <b>Mobile Device Support</b>
-  - [Android Troubleshooting](https://github.com/toussaintp/Android-Troubleshooting)
-  - [Mobile Device Security](https://github.com/toussaintp/Mobile-Device-Security)
 - <b>Hardware</b>
   - [Computer Hardware Diagnostics](https://github.com/toussaintp/Computer-Hardware-Diagnostic)
   - [Computer Hardware Upgrades](https://github.com/toussaintp/Computer-Hardware-Upgrades)
