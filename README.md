@@ -25,7 +25,7 @@
   - [Azure Network Security Groups](https://github.com/toussaintp/Azure-Network-Security-Groups)
 - <b>Linux</b>
   - [Linux System Administration](https://github.com/toussaintp/Linux-System-Administration)
-  - [Linux Virtualization](https://github.com/toussaintp/Linux-Virtualization)
+  - [Linux Networking and Troubleshooting](https://github.com/toussaintp/Linux-Networking-and-Troubleshooting)
 - <b>Mobile Device Support</b>
   - [Android Troubleshooting](https://github.com/toussaintp/Android-Troubleshooting)
   - [Mobile Device Security](https://github.com/toussaintp/Mobile-Device-Security)
