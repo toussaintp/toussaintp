@@ -7,7 +7,7 @@
   - [Windows Remote Support and Troubleshooting](https://github.com/toussaintp/windows-remote-support)
 - <b>Windows Administration</b>
   - [Windows Endpoint Administration and Troubleshooting](https://github.com/toussaintp/Windows-Endpoint-Administration-and-Troubleshooting)
-  - [Windows User and Access Management](https://github.com/toussaintp/Windows-Management)
+  - [Windows Security and Access Management](https://github.com/toussaintp/Windows-Security-and-Access-Management)
   - [Windows Remote Desktop and Remote Assistance](https://github.com/toussaintp/Windows-Remote)
   - [Windows Boot Recovery and Startup Repair](https://github.com/toussaintp/Windows-Recovery-Repair)
   - [Windows Backup and Recovery](https://github.com/toussaintp/Windows-Backup)
