@@ -10,7 +10,7 @@
   - [Windows Security and Access Management](https://github.com/toussaintp/Windows-Security-and-Access-Management)
   - [Windows Remote Desktop and Remote Assistance](https://github.com/toussaintp/Windows-Remote)
 - <b>Networking</b>
-  - [Network Traffic Analysis with Wireshark](https://github.com/toussaintp/Network-Analysis-Wireshark)
+  - [Network Security Groups and Traffic Analysis with Wireshark](https://github.com/toussaintp/Network-Security-Groups-and-Traffic-Analysis-with-Wireshark)
 - <b>Cloud Computing</b>
   - [Microsoft Azure Virtual Machines and Networking](https://github.com/toussaintp/Azure-Virtual-Machines)
   - [Active Directory Domain Services Administration](https://github.com/toussaintp/Azure-Active-Directory)
